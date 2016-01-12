@@ -1,4 +1,10 @@
 @font-face {
+  font-family: Gentium;
+  src: url(Gentium.ttf);
+  /* font-weight, font-style ==> default to normal */
+}
+
+@font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
   font-style: normal;
